@@ -22,6 +22,6 @@ doGenerateSubmoduleConfigurations: false, extensions: [[$class:'RelativeTargetDi
 [$class: 'MessageExclusion', 
 excludeMessage: '(?s).*JENKINS_IGNORE.*']], 
 submoduleCfg: [],
-userRemoteConfigs: [[url:https://github.com/serp1214/WorkingWithGroovyFiles.git]]])
+userRemoteConfigs: [[url:"https://github.com/serp1214/WorkingWithGroovyFiles.git"]]])
 }
 
